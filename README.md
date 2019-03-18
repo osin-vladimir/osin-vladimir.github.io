@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# Jekyll Theme - Mundana by WowThemes.net
 
-You can use the [editor on GitHub](https://github.com/osin-vladimir/osin-vladimir.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
+[Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
+[Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/) &nbsp; | &nbsp; 
+[WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
 
-### Markdown
+### Documentation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
 
-```markdown
-Syntax highlighted code block
+### Contribute to Mundana repository
 
-# Header 1
-## Header 2
-### Header 3
+1. In the top-right corner of this page, click **Fork**.
 
-- Bulleted
-- List
+2. Clone a copy of your fork on your local, replacing *YOUR-USERNAME* with your Github username.
 
-1. Numbered
-2. List
+   `git clone https://github.com/YOUR-USERNAME/mundana-theme-jekyll.git`
 
-**Bold** and _Italic_ and `Code` text
+3. **Create a branch**: 
 
-[Link](url) and ![Image](src)
-```
+   `git checkout -b <my-new-feature-or-fix>`
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+4. **Make necessary changes and commit those changes**:
 
-### Jekyll Themes
+   `git add .`
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/osin-vladimir/osin-vladimir.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+   `git commit -m "new feature or fix"`
 
-### Support or Contact
+5. **Push changes**, replacing `<add-your-branch-name>` with the name of the branch you created earlier at step #3. :
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+   `git push origin <add-your-branch-name>`
+
+6. Submit your changes for review. Go to your repository on GitHub, you'll see a **Compare & pull request** button. Click on that button. Now submit the pull request.
+
+That's it! Soon I'll be merging your changes into the master branch of this project. You will get a notification email once the changes have been merged. Thank you for your contribution.
+
+
+### Copyright
+
+Copyright (C) 2019 WowThemes.net.
+
+Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
+
+<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+### Live Demo
+
+[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
