@@ -1,51 +1,11 @@
-# Jekyll Theme - Mundana by WowThemes.net
+[Open DSE](https://open-dse.github.io) has born from the need of establishing and spreading good practices in Data Engineering, Machine Learning and Data Science Project Management. Aware that *good practice* is a vague concept, we are seeing that nowadays there is no clear established practice that can ensure a Data Science project to deliver the highest business value. By bringing together data practitioners in the Netherlands, Open-DSE aims at creating a network of professionals that openly share their knowledge in this field.
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
-[Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
+Open DSE wants to achieve its objective via **meetups, hackathons and courses**. Meetups are a peer-to-peer share. Professionals will gather together to share their knowledge via presentations and demos. The contents of the meetups will be made public and shared between the community members. Presentations are nice but having hands-on knowledge is even better! That why Open-DSE organises hackathons where the community practically applies the lessons learned during the meetups and enjoys doing something practical. The lessons learned during the meetups and hackathons will be also spread in form of courses for the community members.
 
-![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
+If you want to contribute to the mission of Open-DSE and to help achieving its goals, do not hesitate [to get in touch](https://open-dse.github.io/contact.html).
 
-### Documentation
-
-[How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
-
-### Contribute to Mundana repository
-
-1. In the top-right corner of this page, click **Fork**.
-
-2. Clone a copy of your fork on your local, replacing *YOUR-USERNAME* with your Github username.
-
-   `git clone https://github.com/YOUR-USERNAME/mundana-theme-jekyll.git`
-
-3. **Create a branch**: 
-
-   `git checkout -b <my-new-feature-or-fix>`
-
-4. **Make necessary changes and commit those changes**:
-
-   `git add .`
-
-   `git commit -m "new feature or fix"`
-
-5. **Push changes**, replacing `<add-your-branch-name>` with the name of the branch you created earlier at step #3. :
-
-   `git push origin <add-your-branch-name>`
-
-6. Submit your changes for review. Go to your repository on GitHub, you'll see a **Compare & pull request** button. Click on that button. Now submit the pull request.
-
-That's it! Soon I'll be merging your changes into the master branch of this project. You will get a notification email once the changes have been merged. Thank you for your contribution.
+Best regards,  
+**Open DSE Team**
 
 
-### Copyright
-
-Copyright (C) 2019 WowThemes.net.
-
-Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
-
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Live Demo
-
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
+Note: community website was build usign [this](https://github.com/wowthemesnet/mundana-theme-jekyll/) amazing template. 
