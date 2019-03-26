@@ -1,11 +1,11 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Open|DSE'
+description: 'Open Data Science and Engineering Community Website.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+baseurl: '/open_dse'
+disqus: 'website'
+email: 'dse.open@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -19,21 +19,29 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    vladimir:
+      name:           Vladimir Osin 
+      site:           https://www.linkedin.com/in/vosin/
+      avatar:         /assets/images/team/vladimir_osin.jpg
+      bio:            "Data Scientist/Engineer at Signify"
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    ekhtiar:
+      name:           Ekhtiar Syed
+      site:           https://www.linkedin.com/in/ekhtiar/
+      avatar:         /assets/images/team/ekhtiar_syed.jpg
+      bio:            "Machine Learning Engineer at ASML"
+
+    piero:
+      name:           Pierluigi Casale 
+      site:           https://www.linkedin.com/in/pierluigicasale/
+      avatar:         /assets/images/team/pierluigi_casale.jpg
+      bio:            "Group Data Scientist at TomTom"
+
+    damian:
+      name:           Damian Andrew Tamburri 
+      site:           https://www.linkedin.com/in/maelstrom/
+      avatar:         /assets/images/team/damian_andrew_tamburri.jpg
+      bio:            "Associate Proffesor at JADS"
  
 # Defaults
 defaults:
@@ -43,8 +51,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: vladimir
+      avatar: /assets/images/team/vladimir_osin.jpg
       
   # all pages
   - scope:
