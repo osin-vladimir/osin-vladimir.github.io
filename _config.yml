@@ -3,10 +3,9 @@ name: 'Open|DSE'
 description: 'Open Data Science and Engineering Community Website.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/open_dse'
+baseurl: ''
 disqus: 'website'
 email: 'dse.open@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
