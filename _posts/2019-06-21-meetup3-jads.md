@@ -14,11 +14,11 @@ Our third meetup was conducted at Jheronimus Academy of Data Science, with great
 
 ![]({{site.baseurl}}/assets/images/meetup3/1.jpg)
 
-[John Kop](https://www.linkedin.com/in/john-kop-992a9233/) and [Luc Nies](https://www.linkedin.com/in/lucnies/) from Wärtsilä presented an overview of anomaly detection systems that they using prevent failures of ship engines. Another interesting aspect is valuable role of experts in the process of determining anomalies.
+[John Kop](https://www.linkedin.com/in/john-kop-992a9233/) and [Luc Nies](https://www.linkedin.com/in/lucnies/) from Wärtsilä presented an overview of anomaly detection systems that they are using to prevent failures of ship engines. Another interesting aspect is valuable role of experts in the process of determining anomalies.
 
 ![]({{site.baseurl}}/assets/images/meetup3/2.jpg)
 
-[Zeinab Bakhtiarinoodeh](https://www.linkedin.com/in/zeinab-b-42506ab8/) from TomTom did a great talk about different available sensor modalities and how to analyze data from sensors with a jupyter notebook demo about dynamic time warping. 
+[Zeinab Bakhtiarinoodeh](https://www.linkedin.com/in/zeinab-b-42506ab8/) from TomTom gave a great talk about different available sensor modalities and how to analyze data from sensors with a jupyter notebook demo about dynamic time warping. 
 
 ![]({{site.baseurl}}/assets/images/meetup3/3.jpg)
 
