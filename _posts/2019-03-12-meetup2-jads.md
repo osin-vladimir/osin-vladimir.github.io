@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Second meetup at JADS"
+title:  "Meetup #2 at JADS"
 author: vladimir
-categories: [ meetups, jads ]
+categories: [meetups]
 image: assets/images/meetup2/4.jpg
 comments: false
 tags: [featured]

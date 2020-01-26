@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "What is Data Science?"
-categories: [data_science]
+categories: [knowledge]
 image: assets/images/piero/what_is_data_science_1.jpg
 author: piero
 comments: false
-tags: [featured]
+tags: []
 ---
 
 

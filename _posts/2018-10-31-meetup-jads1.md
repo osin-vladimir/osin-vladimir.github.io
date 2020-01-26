@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "First meetup at JADS"
-categories: [data_science]
+title:  "Meetup #1 at JADS"
+categories: [meetups]
 image: assets/images/meetup1/2.jpeg
 author: vladimir
 comments: false

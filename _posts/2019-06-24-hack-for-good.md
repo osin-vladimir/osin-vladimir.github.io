@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Open | DSE winning Hackathon for Peace, Justice and Security"
+title:  "Winning Hackathon for Peace, Justice and Security"
 author: vladimir
 categories: [ hackathons ]
 image: assets/images/hackforgood2019/2.jpg

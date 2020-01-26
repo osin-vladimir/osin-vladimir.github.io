@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "A New Venn Diagram for Data Science"
-categories: [data_science]
+categories: [knowledge]
 image: assets/images/piero/diagram.png
 author: piero
 comments: false
-tags: [featured]
+tags: []
 ---
 
 It has been long time since I saw for the first time the [Data Science Venn Diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram). The article originated in 2010.
